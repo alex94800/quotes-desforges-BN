@@ -4,11 +4,11 @@ A python program that generates programming quotes and jokes.
 
 ## Contributors
 - `initiator`: Desforges Alexandre Groupe BN
-- `contributor-1`: Desforges Alexandre Groupe BN
+- `contributor-1`: El-Hamjad Rayan Groupe BN
 - `contributor-2`: Colas Jonas Groupe BN
 - `contributor-3`: Devaud Mathias Groupe BN
 
 ## Fork urls
-- `contributor-1`: [quotes-bar-b](url-1)
-- `contributor-2`: [quotes-wizz-b](url-2)
-- `contributor-3`: [quotes-toto-b](url-3)
+- `contributor-1`: https://github.com/RayanCorporation/quotes-desforges-BN
+- `contributor-2`: https://github.com/Jonascls/quotes-desforges-BN
+- `contributor-3`: https://github.com/mathias-devaud/quotes-desforges-BN
